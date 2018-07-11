@@ -1,0 +1,6 @@
+theme: night
+background: assets/wallpaper-gray.jpg
+background-size: cover
+theme-override: pitch.css
+charts: true
+published : true
