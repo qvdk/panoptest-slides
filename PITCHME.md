@@ -1,23 +1,20 @@
----?image=assets/bch-bg.png
+---?image=assets/intro-bg.png
 
 ### Introducing
-## Startup Pack
-#### by Software Improvement Group SIG
+## Panoptest
+#### Tests automation
 
 ---
 
-## The Startup Challenge
+## Tests automation
 
-<span class="primary">How to build a software product that is</span> 
+<span class="primary">Panoptest</span> 
 
-- *scalable* to facilitate growth
-- easy to *change* to fit market needs 
-- able to demonstrate quality to an investor
+![Jenkins](assets/jenkin.png)
 
-<span class="primary">investor-ready.</span>
++
 
-
-interested? send us an [email](mailto:bettercodehub@sig.eu)
+![Tavern](assets/tavern.png)
 
 +++
 
